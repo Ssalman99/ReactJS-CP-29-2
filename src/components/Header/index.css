@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.header {
+  color: blueviolet;
+  text-decoration: underline;
+  margin-right: 25px;
+  font-weight: bold;
+}
+
+.head-container {
+  list-style: none;
+  height: 10%;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.ul-list {
+  list-style: none;
+  height: 10%;
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 10px;
+}
